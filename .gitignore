@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/netflix_titles.csv
+models/*.joblib
+outputs/*.csv
+outputs/*.png
+.streamlit/secrets.toml
+.env
+.env.*

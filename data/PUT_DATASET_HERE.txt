@@ -1,0 +1,1 @@
+Download netflix_titles.csv from https://www.kaggle.com/datasets/shivamb/netflix-shows and place it in this folder.
